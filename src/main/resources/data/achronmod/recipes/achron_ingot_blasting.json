@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "achronmod:achron_ore"
+  },
+  "result": "achronmod:achron_ingot",
+  "experience": 1.0,
+  "cookingtime": 20
+}

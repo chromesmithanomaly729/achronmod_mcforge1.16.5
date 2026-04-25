@@ -1,0 +1,11 @@
+{
+  "item.achronmod.achron_ingot": "Achron Ingot",
+  "item.achronmod.achron_from_iron_converter": "Achron Converter",
+  "block.achronmod.achron_block": "Achron Block",
+  "block.achronmod.achron_ore": "Achron Ore",
+  "block.achronmod.achronic_core": "Achronic Core",
+  "block.achronmod.rift_obsidian": "Rift Obsidian",
+  "screen.achronmod.achronic_core": "Achronic Core Fuel Hatch",
+
+  "itemGroup.AchronModTab": "Achron Mod Items"
+}

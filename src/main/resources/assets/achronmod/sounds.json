@@ -1,0 +1,16 @@
+{
+  "achron_from_iron_converter": {
+    "category": "blocks",
+    "subtitle": "achronmod.achron_from_iron_converter",
+    "sounds": [
+      "achronmod:achron_from_iron_converter"
+    ]
+  },
+  "rift_obsidian_usage_sound": {
+    "category": "blocks",
+    "subtitle": "achronmod.rift_obsidian_usage_sound",
+    "sounds": [
+      "achronmod:rift_obsidian_usage_sound"
+    ]
+  }
+}

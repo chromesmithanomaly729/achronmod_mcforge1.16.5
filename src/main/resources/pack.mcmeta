@@ -1,7 +1,7 @@
 {
     "pack": {
-        "description": "noobiummod resources",
+        "description": "achronmod resources",
         "pack_format": 6,
-        "_comment": "A mod that adds the noobium material, and noobium-related items."
+        "_comment": "A mod that adds the achron material, and achron-related items."
     }
 }

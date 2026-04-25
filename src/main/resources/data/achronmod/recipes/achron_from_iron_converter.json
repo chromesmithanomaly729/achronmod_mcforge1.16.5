@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "O#O",
+    "#L#",
+    "O#O"
+  ],
+  "key": {
+    "#": {
+      "item": "achronmod:achron_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "achronmod:achron_from_iron_converter"
+  }
+}
